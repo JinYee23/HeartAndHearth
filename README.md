@@ -1,1 +1,1 @@
-# HeartAndHearth
+Heart & Hearth is a fully responsive cafe website developed using HTML, CSS, and JavaScript as part of a university assignment. The website showcases a warm and inviting design that reflects the atmosphere of the real-world cafe. It features an intuitive layout and easy navigation to enhance user experience across all devices.
